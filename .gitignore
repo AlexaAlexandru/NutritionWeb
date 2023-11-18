@@ -19,6 +19,7 @@ mono_crash.*
 # macOS system files
 .DS_Store
 
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
